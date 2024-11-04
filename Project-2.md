@@ -33,3 +33,6 @@ The data given is from Jan 2023 - Aug 2024.The analysis will be carried out  usi
 • The company should target more subscribers from Eastern & Northern Region for Basic subscription type to improve sales
 
 • The company should find out reasons for lower patronage from Premium & Standard Subscription type. This might be due to the cost or content of each package.
+
+
+![image](https://github.com/user-attachments/assets/42df22df-1839-44bd-97fd-47aaf023572d)
