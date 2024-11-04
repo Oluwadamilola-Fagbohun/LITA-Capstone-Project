@@ -36,3 +36,5 @@ The analysis will be carried out  using Excel,SQL & Power BI. The analysis is t
 ## Final Conclusion
 
 The Retail Store should target the Southern Market for the sales of Shoes in the first quarter of the year
+
+![image](https://github.com/user-attachments/assets/50a18654-069b-4ccc-b77e-a62a5ebe208d)
