@@ -11,9 +11,9 @@ The data given is from Jan 2023 - Aug 2024.The analysis will be carried out  usi
 
 • Exploratory Data Analysis : Understand the given data by using aggregate functions & pivot tables.
 
-• Data Visualization : Create a appropriate charts to understand the data easily.
+• Data Visualization : Create an appropriate charts to understand the data easily.
 
-• Dashboard : Make a dashboard by placing a different charts on a single page.
+• Dashboard : Make a dashboard by placing a different charts on a single page using Power BI.
 
 • Insights : Provide relevant insights 
 
@@ -22,11 +22,11 @@ The data given is from Jan 2023 - Aug 2024.The analysis will be carried out  usi
 
 • Basic Subscription is the only subscription type that has subscribers from two regions (i.e East & North),others have subscribers in only one region each. 
 
-• All the other regions apart from Eastern Region had no Subscription cancellation
+• only Eastern Region had no Subscription cancellation
 
 • Northern Region has the highest subscription cancellation 
 
-• Standard subscription type has the lowest subscription cancellation  though active subscription is also low
+• Standard subscription type has the lowest subscription cancellation, though active subscription is also low
 
 
 ## Final Conclusion
