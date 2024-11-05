@@ -15,9 +15,9 @@ The analysis will be carried out  using Excel,SQL & Power BI. The analysis is t
 
 • Exploratory Data Analysis : Understand the given data by using aggregate functions & pivot tables.
 
-• Data Visualization : Create a appropriate charts to understand the data easily.
+• Data Visualization : Create an appropriate charts to understand the data easily.
 
-• Dashboard : Make a dashboard by placing a different charts on a single page.
+• Dashboard : Make a dashboard by placing a different charts on a single page using Power BI.
 
 • Insights : Provide relevant insights 
 
